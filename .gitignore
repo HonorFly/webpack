@@ -1,0 +1,13 @@
+# vscode
+.vscode
+
+# ide
+.idea
+.idea.package
+.project
+
+# Dependency directories
+node_modules
+
+# Others
+dist
